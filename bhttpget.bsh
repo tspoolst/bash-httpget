@@ -118,3 +118,4 @@ cat <&3 > "${gl_filedst}"
 exec 3<&- 3>&-
 #[cf]
 #[cf]
+# vim:number:tabstop=2:shiftwidth=2:autoindent:foldmethod=marker:foldlevel=0:foldmarker=#[of],#[cf]
